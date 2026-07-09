@@ -13,6 +13,7 @@ All the skills here are a side-effect of domain-expertise. AI doesn’t replace 
 So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
 
 I add and improve these skills often. Sign up to the newsletter below and I'll let you know about any updates or new skills.
+
 [Sign Up To The Newsletter](http://animations.dev/skills)
 
 ## Install
